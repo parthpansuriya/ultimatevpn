@@ -2,7 +2,7 @@
 <html lang="en">
     <head>
         <!-- Page Title -->
-        <title>Unlimite VPN Master</title>
+        <title>Ultimate VPN Master</title>
         <!-- Favicon -->
      </head>
 
